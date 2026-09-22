@@ -11,7 +11,7 @@ The goal is educational: to evaluate AI capabilities, hardware limitations, and 
 Scope & Safety
 All testing occurs on an isolated network with no external exposure.
 Only predetermined dummy credentials are used — no real accounts or data are targeted.
-The "victim" machine is the author's own test computer, intentionally accessing a simulated landing page.
+The "victim" machine is my own test computer, intentionally accessing a simulated landing page.
 This repo documents a coursework project (IS4543) and is not intended for use against real users or systems.
 Milestones
 Hardware & Local AI Setup – Configure Linux + quantized LLM on the GTX 1050 Ti; document performance and limitations.
